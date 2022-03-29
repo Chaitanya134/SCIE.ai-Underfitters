@@ -7,7 +7,7 @@ const Hero = () => {
                 <h1 className='title'>Predicting the <span>Cyclone Intensity</span></h1>
                 <p className='description'>Using CNN to predict the intensity of cyclone using INSAT-3D IR Images.</p>
                 <div className='button-container'>
-                    <a href="https://www.github.com/Chaitanya134"><button type="button" className='github-btn'>Github</button></a>
+                    <a href="https://github.com/Chaitanya134/SCIE.ai"><button type="button" className='github-btn'>Github</button></a>
                     <button type='button' className='predict-btn'>Predict</button>
                 </div>
             </div>
